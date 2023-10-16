@@ -18,10 +18,10 @@ theme:
   features:
     - content.code.annotate
     - content.tooltips
+    - content.tabs.link
     - navigation.indexes
     - navigation.top
-    - navigation.tabs
-    - navigation.tabs.sticky
+    - navigation.tracking
     - search.highlight
     - toc.follow
 
